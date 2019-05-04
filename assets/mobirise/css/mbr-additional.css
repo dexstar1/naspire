@@ -17,13 +17,13 @@
 
 @media (min-width:720px){
     #right-side{
-        width:100%;
+        width:100% !important;
         position: fixed;
         right: 0;
         top: 100px;
     }
     #left-side{
-    width: 100%;
+    width: 100% !important;
     float:left;
 }
 }
