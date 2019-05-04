@@ -1297,6 +1297,8 @@ pre {
 }
 .card-img {
   width: auto;
+    height: 220px;
+    overflow-y: hidden;
 }
 .menu .navbar.collapsed:not(.beta-menu) {
   flex-direction: column;
